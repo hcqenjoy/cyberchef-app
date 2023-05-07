@@ -7,6 +7,7 @@ on:
     branches:
       - 'main'
       - 'master'
+  workflow_dispatch:
 
 env:
   app_name: cyberchef-app
