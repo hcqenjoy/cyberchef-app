@@ -8,6 +8,10 @@ on:
       - 'main'
       - 'master'
   workflow_dispatch:
+    inputs:
+      tags:
+        required: true
+        type: string
 
 env:
   app_name: cyberchef-app
