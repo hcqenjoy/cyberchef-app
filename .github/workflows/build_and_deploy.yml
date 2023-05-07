@@ -64,7 +64,6 @@ jobs:
   build-native-executable:
     name: 'Build native executable'
     needs: [build-depoly-files]
-    if: contains(github.ref, 'tags')
     strategy:
       fail-fast: false
       matrix:
@@ -246,6 +245,6 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           file: ${{env.app_name}}-${{matrix.label}}-${{ github.ref_name }}*
-          tags: true
-          draft: false
+          tags: false
+          draft: true
           overwrite: true
