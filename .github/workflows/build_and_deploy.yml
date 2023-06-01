@@ -192,8 +192,8 @@ jobs:
           # see https://adamtheautomator.com/powershell-escape-double-quotes/, use '"string"' or "`"string`""
           yarn
           yarn tauri info
-          yarn tauri build -t x86_64-pc-windows-msvc -c "{\"package\":{\"version\":\"${{ github.ref_name }}\"}}"
-          yarn tauri build -t i686-pc-windows-msvc -c "{\"package\":{\"version\":\"${{ github.ref_name }}\"}}"
+          yarn tauri build -t x86_64-pc-windows-msvc -c "{\"package\":{\"version\":\"10.4.0\"}}"
+          yarn tauri build -t i686-pc-windows-msvc -c "{\"package\":{\"version\":\"10.4.0\"}}"
           echo "build native binarys finished"
         shell: bash
       - name: Display structure of build files
