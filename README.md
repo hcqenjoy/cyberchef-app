@@ -29,7 +29,7 @@ This is cyberchef desktop app, running in an [Tauri](https://tauri.studio/) app.
         💿 MSI Installer
       </a><br />
       <span>
-        �Don't know what kind of chip you have? Hit start, enter "processor" for info.
+        ❓ Don't know what kind of chip you have? Hit start, enter "processor" for info.
       </span>
     </td>
   </tr>
@@ -60,7 +60,7 @@ This is cyberchef desktop app, running in an [Tauri](https://tauri.studio/) app.
         💿 APP bundle
       </a><br />
       <span>
-        �Don't know what kind of chip you have? Learn more at <a href="https://support.apple.com/en-us/HT211814">apple.com</a>.
+        ❓ Don't know what kind of chip you have? Learn more at <a href="https://support.apple.com/en-us/HT211814">apple.com</a>.
       </span>
     </td>
   </tr>
