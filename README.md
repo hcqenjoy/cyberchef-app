@@ -15,17 +15,17 @@ This is cyberchef desktop app, running in an [Tauri](https://tauri.studio/) app.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.12.1_x64.exe">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.14.0_x64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.12.1_x64.msi">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.14.0_x64.msi">
         💿 MSI Installer
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.12.1_x86.exe">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.14.0_x86.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.12.1_x86.msi">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-windows-10.14.0_x86.msi">
         💿 MSI Installer
       </a><br />
       <span>
@@ -40,23 +40,23 @@ This is cyberchef desktop app, running in an [Tauri](https://tauri.studio/) app.
     </td>
     <td>
       <span>Intel Processor</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_x64">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_x64">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_x64.dmg">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_x64.dmg">
         💿 DMG bundle
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_x64.app.zip">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_x64.app.zip">
         💿 APP bundle
       </a><br />
       <span>Apple M1 Processor</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_aarch64">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_aarch64">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_aarch64.dmg">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_aarch64.dmg">
         💿 DMG bundle
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.12.1_aarch64.app.zip">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-macos-10.14.0_aarch64.app.zip">
         💿 APP bundle
       </a><br />
       <span>
@@ -71,23 +71,23 @@ This is cyberchef desktop app, running in an [Tauri](https://tauri.studio/) app.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_amd64">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_amd64">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_amd64.AppImage">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_amd64.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_amd64.deb">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_amd64.deb">
         💿 DEB bundle
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_i386">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_i386">
         📦 Executable
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_i386.AppImage">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_i386.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.12.1_i386.deb">
+      <a href="https://github.com/hcqenjoy/cyberchef-app/releases/latest/download/cyberchef-app-linux-10.14.0_i386.deb">
         💿 DEB bundle
       </a>
     </td>
