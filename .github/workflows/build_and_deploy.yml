@@ -15,7 +15,7 @@ on:
 
 env:
   app_name: cyberchef-app
-  app_version : 10.18.9
+  app_version : 10.19.2
 
 jobs:
   build-depoly-files:
